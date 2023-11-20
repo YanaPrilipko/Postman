@@ -1,0 +1,91 @@
+{
+	"info": {
+		"_postman_id": "2e7647da-c5df-4a94-94ea-7bcb2bafa957",
+		"name": "Study collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31258390"
+	},
+	"item": [
+		{
+			"name": "https://www.arbeitnow.com/api/job-board-api",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.arbeitnow.com/api/job-board-api",
+					"protocol": "https",
+					"host": [
+						"www",
+						"arbeitnow",
+						"com"
+					],
+					"path": [
+						"api",
+						"job-board-api"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://github.com/openvisionapi/ova-client.git",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://github.com/openvisionapi/ova-client.git",
+					"protocol": "https",
+					"host": [
+						"github",
+						"com"
+					],
+					"path": [
+						"openvisionapi",
+						"ova-client.git"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://api.covid19tracker.ca/summary",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.covid19tracker.ca/summary",
+					"protocol": "https",
+					"host": [
+						"api",
+						"covid19tracker",
+						"ca"
+					],
+					"path": [
+						"summary"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://uselection.togatech.org/api",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://uselection.togatech.org/api",
+					"protocol": "https",
+					"host": [
+						"uselection",
+						"togatech",
+						"org"
+					],
+					"path": [
+						"api"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
